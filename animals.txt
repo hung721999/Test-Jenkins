@@ -6,3 +6,5 @@ tiger
 cheetah
 mouse
 rabbit
+bird
+turtle
