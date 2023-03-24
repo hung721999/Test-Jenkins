@@ -2,3 +2,4 @@ lion
 dog
 cat
 swan
+duck
