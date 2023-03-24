@@ -2,12 +2,6 @@ lion
 dog
 chicken
 fish
-tiger
-cheetah
-mouse
-rabbit
-bird
-turtle
 crab
 shark
 duck
