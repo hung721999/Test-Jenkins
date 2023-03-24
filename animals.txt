@@ -1,7 +1,2 @@
 lion
 dog
-chicken
-fish
-crab
-shark
-duck
