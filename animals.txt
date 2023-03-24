@@ -8,3 +8,4 @@ mouse
 rabbit
 bird
 turtle
+crab
