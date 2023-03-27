@@ -11,3 +11,4 @@ wolf
 bear
 giraffe
 elephant
+cheetah
